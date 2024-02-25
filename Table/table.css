@@ -1,0 +1,12 @@
+td:nth-child(even) {
+    background-color:rgb(197, 247, 197) ;
+
+}
+table,td,caption{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+caption{
+    color: white;
+    text-decoration: solid;
+}
